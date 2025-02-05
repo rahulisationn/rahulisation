@@ -2,6 +2,11 @@
 
 #### Technical Skills: AWS, VAPT, Incident Response, Network Security & Firewall Management, Governance Risk & Compliance
 
+## Summary
+Experienced Security Analyst with proven track record working in the Corporate IT sector. Expertise in Cloud security along with conducting security assessments, vulnerability management, and incident response. Seeking a challenging role in the cybersecurity domain to leverage skills in identifying and mitigating security risks, ensuring the confidentiality, integrity, and availability of critical systems and data.
+
+In addition, I have authored a globally available book on cybersecurity titled "The Red Hat Club," showcasing my experience in the field. Furthermore, I have published over 12 publications, including articles and research papers, focusing on various aspects of information security, data privacy, and the dark web.
+
 ## Education
 - M.S., Cybersecurity & Information Assurance | University of Central Missouri								       	
 - B.TECH., CSE | PRIST University	 			        		

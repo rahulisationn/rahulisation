@@ -4,7 +4,7 @@
 
 ## Education
 - M.S., Cybersecurity & Information Assurance | University of Central Missouri								       	
-- B.TECH., Computer Science & Engineering	| PRIST University	 			        		
+- B.TECH., CSE | PRIST University	 			        		
 
 ## Work Experience
 **Security Analyst @ Alacriti Payments LLC (_Dec 2021 - July 2024_)**

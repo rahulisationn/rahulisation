@@ -21,6 +21,11 @@ In addition, I have authored a globally available book on cybersecurity titled "
 - Oversaw third-party penetration testing activities and conducted internal web application penetration tests, resulting in a decrease in potential security risks.
 - Familiarity with implementing Data Loss Prevention (DLP) using Netwrix Endpoint Protector.
 
+## Certifications
+- AWS Certified SysOps Administrator Associate - 2023
+- Oracle Cloud Infrastructure Foundations Associate - 2021
+- IBM Certified Security Analyst - 2020
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)

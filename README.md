@@ -1,20 +1,20 @@
 # Security Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: AWS, VAPT, Incident Response, Network Security & Firewall Management, Governance Risk & Compliance
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Cybersecurity & Information Assurance | University of Central Missouri								       	
+- B.TECH., Computer Science & Engineering	| PRIST University	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Security Analyst @ Alacriti Payments LLC (_Dec 2021 - July 2024_)**
+- Utilized technical skills in cloud security for AWS and Google Workspace to proactively monitor and mitigate potential threats.
+- Experienced in utilizing collaboration tools like Jira and Confluence.
+- Collaborated with cross-functional teams to implement necessary changes and updates to information security policies ensuring compliance with regulatory requirements(PCI DSS, NIST 800-53).
+- Demonstrated expertise in endpoint security, firewall management (specifically with Sophos), and patch management.
+- Proficient in handling PCI scans and effectively managing vulnerabilities using Tenable vulnerability Management.
+- Oversaw third-party penetration testing activities and conducted internal web application penetration tests, resulting in a decrease in potential security risks.
+- Familiarity with implementing Data Loss Prevention (DLP) using Netwrix Endpoint Protector.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -52,4 +52,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)

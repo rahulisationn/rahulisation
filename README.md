@@ -4,36 +4,35 @@
 #### Technical Skills: AWS, VAPT, Incident Response, Network Security & Firewall Management, Governance Risk & Compliance
 
 ## Summary
-Experienced Security Analyst with a proven track record working in the Corporate IT sector. Expertise in Cloud security along with conducting security assessments, vulnerability management, and incident response.Seeking a challenging role in the cybersecurity domain to leverage skills in identifying and mitigating security risks and ensuring the confidentiality, integrity, and availability of critical systems and data.
+Results-driven Security Analyst with experience in vulnerability management, incident response, and cloud security within the corporate IT sector. Skilled in identifying and mitigating security risks, strengthening security postures, and ensuring the confidentiality, integrity, and availability of critical systems and data. Adept at collaborating with cross-functional teams and aligning security strategies with business objectives.
 
-In addition, I have authored a globally available book on cybersecurity titled "The Red Hat Club," showcasing my experience in the field. Furthermore, I have published over 12 publications, including articles and research papers, focusing on various aspects of information security, data privacy, and the dark web.
+Beyond my hands-on experience, I am the published author of The Red Hat Club, a globally available book on cybersecurity. Additionally, I have authored more than 12 research papers and articles on cybersecurity, data privacy, and the dark web, demonstrating my commitment to advancing security awareness and best practices.
 
 ## Education
 - M.S., Cybersecurity & Information Assurance 							       	
 - B.TECH., CSE	 			        		
 
 ## Work Experience
-**Security Analyst @ Alacriti Payments LLC (_Dec 2021 - July 2024_)**
+**Security Engineer**
 **Threat Detection & Vulnerability Management**
-- Established and managed a centralized SIEM (ELK Stack) for production, sandbox, and development environments, creating custom Kibana 
-  dashboards for real-time monitoring.
-- Implemented host-based intrusion detection systems (HIDS) (Ossec, Wazuh) for cloud and endpoint security.
-- Conducted penetration testing on web applications following OWASP Top 10 using BurpSuite Pro and other open-source tools.
-- Performed network and web vulnerability assessments using Nessus, Nmap, Rapid7 Insight and OWASP ZAP.
+- Managed a centralized security monitoring system for production, sandbox, and development environments, enabling real-time threat detection and response.
+- Implemented host intrusion detection mechanisms to enhance cloud and endpoint security.
+- Led penetration testing efforts on web applications, identifying and mitigating vulnerabilities based on industry best practices.
+- Conducted comprehensive vulnerability assessments across network and web environments, strengthening overall security posture.
 **Cloud & Endpoint Security**
-- Monitored and enhanced AWS security posture using native AWS security tools, aligning with AWS's Well-Architected Framework.
-- Integrated Docker security within the CI/CD pipeline, proactively managing vulnerabilities with Prisma Cloud Compute.
-- Managed endpoint security, firewall configurations (Sophos), and patch management for comprehensive system protection.
-- Implemented Data Loss Prevention (DLP) strategies across email and cloud storage using Google Workspace Security.
+- Strengthened cloud security by implementing best practices and aligning with industry frameworks to enhance risk management.
+- Integrated security within the software development lifecycle, ensuring proactive identification and remediation of vulnerabilities.
+- Managed enterprise-wide endpoint security, firewall configurations, and patch management to safeguard critical assets.
+- Established and enforced data protection strategies, preventing unauthorized data access and leakage.
 **Compliance & Policy Enforcement**
-- Ensured regulatory compliance with PCI DSS, NIST 800-53  and MITRE ATT&CK frameworks.
-- Collaborated with cross-functional teams to update security policies and meet compliance requirements.
-- Triaged third-party security findings, coordinating with internal teams to implement security fixes within mandated SLAs.
-- Managed and documented security procedures, runbooks, and incident reports using Jira and Confluence.
+- Ensured adherence to regulatory and compliance frameworks, aligning security controls with industry standards.
+- Collaborated with cross-functional teams to develop, update, and enforce security policies and procedures.
+- Managed third-party security assessments, driving timely remediation efforts and compliance with required SLAs.
+- Documented security processes, incident response procedures, and best practices to support operational efficiency.
 **Security Awareness & Collaboration**
-- Conducted security training sessions and awareness programs across multiple teams.
-- Created and optimized security runbooks and video tutorials covering SIEM, incident triaging, data protection, and threat intelligence.
-- Facilitated clear communication between technical and non-technical stakeholders, ensuring alignment on security initiatives.
+- Delivered security training and awareness initiatives to enhance organizational cybersecurity culture.
+- Developed and maintained security playbooks and knowledge resources, supporting continuous improvement in security operations.
+- Acted as a bridge between technical and business stakeholders, translating security objectives into actionable strategies.
 
 ## Certifications
 - AWS Certified SysOps Administrator Associate - 2023

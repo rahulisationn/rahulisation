@@ -14,21 +14,25 @@ Beyond my hands-on experience, I am the published author of The Red Hat Club, a 
 
 ## Work Experience
 **Security Engineer**
+
 **Threat Detection & Vulnerability Management**
 - Managed a centralized security monitoring system for production, sandbox, and development environments, enabling real-time threat detection and response.
 - Implemented host intrusion detection mechanisms to enhance cloud and endpoint security.
 - Led penetration testing efforts on web applications, identifying and mitigating vulnerabilities based on industry best practices.
 - Conducted comprehensive vulnerability assessments across network and web environments, strengthening overall security posture.
+
 **Cloud & Endpoint Security**
 - Strengthened cloud security by implementing best practices and aligning with industry frameworks to enhance risk management.
 - Integrated security within the software development lifecycle, ensuring proactive identification and remediation of vulnerabilities.
 - Managed enterprise-wide endpoint security, firewall configurations, and patch management to safeguard critical assets.
 - Established and enforced data protection strategies, preventing unauthorized data access and leakage.
+
 **Compliance & Policy Enforcement**
 - Ensured adherence to regulatory and compliance frameworks, aligning security controls with industry standards.
 - Collaborated with cross-functional teams to develop, update, and enforce security policies and procedures.
 - Managed third-party security assessments, driving timely remediation efforts and compliance with required SLAs.
 - Documented security processes, incident response procedures, and best practices to support operational efficiency.
+
 **Security Awareness & Collaboration**
 - Delivered security training and awareness initiatives to enhance organizational cybersecurity culture.
 - Developed and maintained security playbooks and knowledge resources, supporting continuous improvement in security operations.

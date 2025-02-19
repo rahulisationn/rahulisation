@@ -1,64 +1,52 @@
 # Security Engineer
+### [Get In Touch](https://www.linkedin.com/in/rahulisationn/)
 
 #### Technical Skills: AWS, VAPT, Incident Response, Network Security & Firewall Management, Governance Risk & Compliance
 
 ## Summary
-Experienced Security Analyst with proven track record working in the Corporate IT sector. Expertise in Cloud security along with conducting security assessments, vulnerability management, and incident response. Seeking a challenging role in the cybersecurity domain to leverage skills in identifying and mitigating security risks, ensuring the confidentiality, integrity, and availability of critical systems and data.
+Experienced Security Analyst with a proven track record working in the Corporate IT sector. Expertise in Cloud security along with conducting security assessments, vulnerability management, and incident response.Seeking a challenging role in the cybersecurity domain to leverage skills in identifying and mitigating security risks and ensuring the confidentiality, integrity, and availability of critical systems and data.
 
 In addition, I have authored a globally available book on cybersecurity titled "The Red Hat Club," showcasing my experience in the field. Furthermore, I have published over 12 publications, including articles and research papers, focusing on various aspects of information security, data privacy, and the dark web.
 
 ## Education
-- M.S., Cybersecurity & Information Assurance | University of Central Missouri								       	
-- B.TECH., CSE | PRIST University	 			        		
+- M.S., Cybersecurity & Information Assurance 							       	
+- B.TECH., CSE	 			        		
 
 ## Work Experience
 **Security Analyst @ Alacriti Payments LLC (_Dec 2021 - July 2024_)**
-- Utilized technical skills in cloud security for AWS and Google Workspace to proactively monitor and mitigate potential threats.
-- Experienced in utilizing collaboration tools like Jira and Confluence.
-- Collaborated with cross-functional teams to implement necessary changes and updates to information security policies ensuring compliance with regulatory requirements(PCI DSS, NIST 800-53).
-- Demonstrated expertise in endpoint security, firewall management (specifically with Sophos), and patch management.
-- Proficient in handling PCI scans and effectively managing vulnerabilities using Tenable vulnerability Management.
-- Oversaw third-party penetration testing activities and conducted internal web application penetration tests, resulting in a decrease in potential security risks.
-- Familiarity with implementing Data Loss Prevention (DLP) using Netwrix Endpoint Protector.
+**Threat Detection & Vulnerability Management**
+- Established and managed a centralized SIEM (ELK Stack) for production, sandbox, and development environments, creating custom Kibana 
+  dashboards for real-time monitoring.
+- Implemented host-based intrusion detection systems (HIDS) (Ossec, Wazuh) for cloud and endpoint security.
+- Conducted penetration testing on web applications following OWASP Top 10 using BurpSuite Pro and other open-source tools.
+- Performed network and web vulnerability assessments using Nessus, Nmap, Rapid7 Insight and OWASP ZAP.
+**Cloud & Endpoint Security**
+- Monitored and enhanced AWS security posture using native AWS security tools, aligning with AWS's Well-Architected Framework.
+- Integrated Docker security within the CI/CD pipeline, proactively managing vulnerabilities with Prisma Cloud Compute.
+- Managed endpoint security, firewall configurations (Sophos), and patch management for comprehensive system protection.
+- Implemented Data Loss Prevention (DLP) strategies across email and cloud storage using Google Workspace Security.
+**Compliance & Policy Enforcement**
+- Ensured regulatory compliance with PCI DSS, NIST 800-53  and MITRE ATT&CK frameworks.
+- Collaborated with cross-functional teams to update security policies and meet compliance requirements.
+- Triaged third-party security findings, coordinating with internal teams to implement security fixes within mandated SLAs.
+- Managed and documented security procedures, runbooks, and incident reports using Jira and Confluence.
+**Security Awareness & Collaboration**
+- Conducted security training sessions and awareness programs across multiple teams.
+- Created and optimized security runbooks and video tutorials covering SIEM, incident triaging, data protection, and threat intelligence.
+- Facilitated clear communication between technical and non-technical stakeholders, ensuring alignment on security initiatives.
 
 ## Certifications
 - AWS Certified SysOps Administrator Associate - 2023
 - Oracle Cloud Infrastructure Foundations Associate - 2021
 - IBM Certified Security Analyst - 2020
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Pandey, R. (2023). The Red Hat Club. Self-Published. [Read Here](https://www.amazon.com/Red-Hat-Club-Only-Youll/dp/B0BW358WY2)
+2. Pandey, N., & Pandey, R. (2021). Dark Web – The Hidden Cyberspace. Academic Journal of Forensic Sciences, 04(02), 06–14. [Read Here](https://www.xournals.com/journal/dark-web-the-hidden-cyberspace)
+3. Pandey, R. (2022). The unheard story of lost anonymity. ISACA. [Read Here](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2022/volume-49/the-unheard-story-of-lost-anonymity)
+4. Pandey, R. (2023). The window of exposure: A critical component of your cybersecurity strategy. ISACA. [Read Here](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-51/the-window-of-exposure-a-critical-component-of-your-cybersecurity-strategy)
+5. Pandey, R. (2023). The urgent need for AI in GRC and security operations. ISACA. [Read Here](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-12/the-urgent-need-for-ai-in-grc-and-security-operations)
+6. Pandey, R. (2022). Exploring HackTown: A college for cybercriminals. ISACA. [Read Here](https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2022/exploring-hacktown-a-college-for-cybercriminals)
+7. Pandey, R. (2023). The unspoken danger of social media oversharing: Location data in pictures. CXO Today. [Read Here](https://cxotoday.com/specials/the-unspoken-danger-of-social-media-oversharing-location-data-in-pictures/)
+
 

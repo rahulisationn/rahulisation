@@ -1,4 +1,4 @@
-# Security Engineer
+# Security Practitioner
 ### [Get In Touch](https://www.linkedin.com/in/rahulisationn/)
 
 #### Technical Skills: AWS, VAPT, Incident Response, Network Security & Firewall Management, Governance Risk & Compliance
@@ -13,7 +13,7 @@ Beyond my hands-on experience, I am the published author of The Red Hat Club, a 
 - B.TECH., CSE	 			        		
 
 ## Work Experience
-**Security Engineer**
+**Security Analyst**
 
 **Threat Detection & Vulnerability Management**
 - Managed a centralized security monitoring system for production, sandbox, and development environments, enabling real-time threat detection and response.

@@ -39,6 +39,7 @@ Beyond my hands-on experience, I am the published author of The Red Hat Club, a 
 - Acted as a bridge between technical and business stakeholders, translating security objectives into actionable strategies.
 
 ## Certifications
+- AWS Certified Security Specialty - 2025
 - AWS Certified SysOps Administrator Associate - 2023
 - Oracle Cloud Infrastructure Foundations Associate - 2021
 - IBM Certified Security Analyst - 2020

@@ -1,3 +1,5 @@
+# Senior Security Engineer
+
 I work on detection engineering, cloud security, and how agentic systems fail. I also write about anonymity, the dark web, and the time between a vulnerability existing and someone noticing it.
 
 ## What I spend time on
@@ -21,7 +23,6 @@ I work on detection engineering, cloud security, and how agentic systems fail. I
 - [The window of exposure](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-51/the-window-of-exposure-a-critical-component-of-your-cybersecurity-strategy), ISACA (2023)
 - [The urgent need for AI in GRC and security operations](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-12/the-urgent-need-for-ai-in-grc-and-security-operations), ISACA (2023)
 - [The unspoken danger of social media oversharing](https://cxotoday.com/specials/the-unspoken-danger-of-social-media-oversharing-location-data-in-pictures/), CXO Today (2023)
-
 
 ## On GitHub
 

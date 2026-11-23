@@ -1,7 +1,5 @@
 I work on detection engineering, cloud security, and how agentic systems fail. I also write about anonymity, the dark web, and the time between a vulnerability existing and someone noticing it.
 
-Based in the New York City area. M.S. in Cybersecurity and Information Assurance, University of Central Missouri.
-
 ## What I spend time on
 
 **Detection engineering.** Turning attacker behavior into rules other people can run. Upstream right now: a Linux NetworkManager hotspot rule in [SigmaHQ/sigma#5255](https://github.com/SigmaHQ/sigma/pull/5255).

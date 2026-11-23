@@ -1,56 +1,43 @@
-# Security Practitioner
-### [Get In Touch](https://www.linkedin.com/in/rahulisationn/)
+I work on detection engineering, cloud security, and how agentic systems fail. I also write about anonymity, the dark web, and the time between a vulnerability existing and someone noticing it.
 
-#### Technical Skills: AWS, VAPT, Incident Response, Network Security & Firewall Management, Governance Risk & Compliance
+Based in the New York City area. M.S. in Cybersecurity and Information Assurance, University of Central Missouri.
 
-## Summary
-Results-driven Security Analyst with experience in vulnerability management, incident response, and cloud security within the corporate IT sector. Skilled in identifying and mitigating security risks, strengthening security postures, and ensuring the confidentiality, integrity, and availability of critical systems and data. Adept at collaborating with cross-functional teams and aligning security strategies with business objectives.
+## What I spend time on
 
-Beyond my hands-on experience, I am the published author of The Red Hat Club, a globally available book on cybersecurity. Additionally, I have authored more than 12 research papers and articles on cybersecurity, data privacy, and the dark web, demonstrating my commitment to advancing security awareness and best practices.
+**Detection engineering.** Turning attacker behavior into rules other people can run. Upstream right now: a Linux NetworkManager hotspot rule in [SigmaHQ/sigma#5255](https://github.com/SigmaHQ/sigma/pull/5255).
 
-## Education
-- M.S., Cybersecurity & Information Assurance 							       	
-- B.TECH., CSE	 			        		
+**Cloud security.** AWS identity, detection, and hardening. AWS Certified Security Specialty and SysOps Administrator.
 
-## Work Experience
-**Security Analyst**
+**Agentic AI and LLM security.** How voice agents and models fail, and how to test that before it becomes an incident.
 
-**Threat Detection & Vulnerability Management**
-- Managed a centralized security monitoring system for production, sandbox, and development environments, enabling real-time threat detection and response.
-- Implemented host intrusion detection mechanisms to enhance cloud and endpoint security.
-- Led penetration testing efforts on web applications, identifying and mitigating vulnerabilities based on industry best practices.
-- Conducted comprehensive vulnerability assessments across network and web environments, strengthening overall security posture.
+**Research.** Cyber threat intelligence, lost anonymity, and fraud detection in digital banking.
 
-**Cloud & Endpoint Security**
-- Strengthened cloud security by implementing best practices and aligning with industry frameworks to enhance risk management.
-- Integrated security within the software development lifecycle, ensuring proactive identification and remediation of vulnerabilities.
-- Managed enterprise-wide endpoint security, firewall configurations, and patch management to safeguard critical assets.
-- Established and enforced data protection strategies, preventing unauthorized data access and leakage.
+## Writing
 
-**Compliance & Policy Enforcement**
-- Ensured adherence to regulatory and compliance frameworks, aligning security controls with industry standards.
-- Collaborated with cross-functional teams to develop, update, and enforce security policies and procedures.
-- Managed third-party security assessments, driving timely remediation efforts and compliance with required SLAs.
-- Documented security processes, incident response procedures, and best practices to support operational efficiency.
+- [The Red Hat Club](https://www.amazon.com/Red-Hat-Club-Only-Youll/dp/B0BW358WY2) (2023)
+- [The unheard story of lost anonymity](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2022/volume-49/the-unheard-story-of-lost-anonymity), ISACA (2022)
+- [Exploring HackTown: a college for cybercriminals](https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2022/exploring-hacktown-a-college-for-cybercriminals), ISACA (2022)
+- [Dark Web – The Hidden Cyberspace](https://www.xournals.com/journal/dark-web-the-hidden-cyberspace), with N. Pandey (2021)
+- [The window of exposure](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-51/the-window-of-exposure-a-critical-component-of-your-cybersecurity-strategy), ISACA (2023)
+- [The urgent need for AI in GRC and security operations](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-12/the-urgent-need-for-ai-in-grc-and-security-operations), ISACA (2023)
+- [The unspoken danger of social media oversharing](https://cxotoday.com/specials/the-unspoken-danger-of-social-media-oversharing-location-data-in-pictures/), CXO Today (2023)
 
-**Security Awareness & Collaboration**
-- Delivered security training and awareness initiatives to enhance organizational cybersecurity culture.
-- Developed and maintained security playbooks and knowledge resources, supporting continuous improvement in security operations.
-- Acted as a bridge between technical and business stakeholders, translating security objectives into actionable strategies.
+Also published: *AI-Driven Fraud Detection and Transaction Security Framework for Digital Banking Systems*.
 
-## Certifications
-- AWS Certified Security Specialty - 2025
-- AWS Certified SysOps Administrator Associate - 2023
-- Oracle Cloud Infrastructure Foundations Associate - 2021
-- IBM Certified Security Analyst - 2020
+## On GitHub
 
-## Publications
-1. Pandey, R. (2023). The Red Hat Club. Self-Published. [Read Here](https://www.amazon.com/Red-Hat-Club-Only-Youll/dp/B0BW358WY2)
-2. Pandey, N., & Pandey, R. (2021). Dark Web – The Hidden Cyberspace. Academic Journal of Forensic Sciences, 04(02), 06–14. [Read Here](https://www.xournals.com/journal/dark-web-the-hidden-cyberspace)
-3. Pandey, R. (2022). The unheard story of lost anonymity. ISACA. [Read Here](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2022/volume-49/the-unheard-story-of-lost-anonymity)
-4. Pandey, R. (2023). The window of exposure: A critical component of your cybersecurity strategy. ISACA. [Read Here](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-51/the-window-of-exposure-a-critical-component-of-your-cybersecurity-strategy)
-5. Pandey, R. (2023). The urgent need for AI in GRC and security operations. ISACA. [Read Here](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-12/the-urgent-need-for-ai-in-grc-and-security-operations)
-6. Pandey, R. (2022). Exploring HackTown: A college for cybercriminals. ISACA. [Read Here](https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2022/exploring-hacktown-a-college-for-cybercriminals)
-7. Pandey, R. (2023). The unspoken danger of social media oversharing: Location data in pictures. CXO Today. [Read Here](https://cxotoday.com/specials/the-unspoken-danger-of-social-media-oversharing-location-data-in-pictures/)
+- [XSS-cheatsheet](https://github.com/rahulisationn/XSS-cheatsheet) — payloads and bypasses for web application testing
+- [BugBountyDorks](https://github.com/rahulisationn/BugBountyDorks) — search queries for exposed assets
+- [Profile](https://github.com/rahulisationn) — the short version of this page
 
+## Credentials
 
+- AWS Certified Security – Specialty
+- AWS Certified SysOps Administrator – Associate
+- IBM Cybersecurity Analyst
+- Oracle Cloud Infrastructure Foundations Associate
+- Certified Cyber Crime Intervention Officer
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/rahulisationn) · [Email](mailto:rahul.pandey098@gmail.com) · [X](https://x.com/rahulisationn)
